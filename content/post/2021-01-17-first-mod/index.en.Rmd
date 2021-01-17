@@ -1,0 +1,27 @@
+---
+title: First Mod
+author: Phil E
+date: '2021-01-17'
+slug: first-mod
+categories:
+  - Demo
+tags:
+  - Academic
+subtitle: 'First modification in studio, github push and deploy to netlify'
+summary: ''
+authors: []
+lastmod: '2021-01-17T15:40:31-05:00'
+featured: no
+image:
+  caption: ''
+  focal_point: ''
+  preview_only: no
+projects: []
+---
+## First modification to the website
+Here is my first test post.  After this I will begin cleaning the site and incorporating my own content.
+
+```{r cars}
+summary(cars)
+```
+
